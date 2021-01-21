@@ -18,7 +18,7 @@ which leads to the need to find the difference between number of blocks and the 
 
 # How to manage if people using bikes are speeding too high on the lanes?
 
-# speed trends
+# Speed trends
 
 ![bike speed per blocks](https://user-images.githubusercontent.com/47668423/105329644-a76a8300-5bd1-11eb-85cd-fa2484cf9556.png)
 
