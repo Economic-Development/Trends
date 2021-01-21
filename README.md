@@ -1,4 +1,4 @@
-# Community Situation
+# How would you help your citizens in neighbourhood get quicker and safer to their work?
 
 Many people live at blocks distance from thei office. It takes them 1 minute per block to the office and around 20 seconds per bloc by bike.
 If it takes them various minutes more to walk to office than to ride thaen how many blocks distance do they travel to their offices?
@@ -15,6 +15,11 @@ which leads to the need to find the difference between number of blocks and the 
 ![bike2](https://user-images.githubusercontent.com/47668423/105061882-4aa88480-5a7a-11eb-8d31-36321ce50f67.png)
 
 ![bike 3](https://user-images.githubusercontent.com/47668423/105061873-49775780-5a7a-11eb-951d-54d7ade9fbf8.png)
+
+# How to manage if people using bikes are speeding too high on the lanes?
+
+# speed trends
+
 
 # Conclusions 
 
